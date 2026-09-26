@@ -170,16 +170,6 @@ Cross-platform tower-stacking game with a clean, pure-Dart domain layer.
 
 </div>
 
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-
-
-<br/><br/>
-
 > 💼 Open to senior frontend/full-stack opportunities — feel free to reach out.
 
 <br/>
